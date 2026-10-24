@@ -105,6 +105,8 @@ Sometimes after updating the firmware, scanning your vehicle with OBD11, VCDS, o
 
 These error codes (such as "Check Software Version Management") are standard after manual firmware updates and can easily be cleared by recalculating/updating the value. Follow the step-by-step instructions here: [MIB Helper - SVM XOR Calculator](https://mib-helper.com/im-so-xory/).
 
+These codes can also be cleared by using the SVM fix feature available in the MIB Toolbox.
+
 ---
 
 ## Finished!
